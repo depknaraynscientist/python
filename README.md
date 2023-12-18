@@ -9,5 +9,6 @@
 
 # Downloading code and files
 Use either of these options :
+  - Click on the file in github, click on download file option on right of screen.
   - Download using 'Download ZIP' option when you click on the 'Clone' button.
   - Download using git(via ssh or via https) if git is installed in your machine.
